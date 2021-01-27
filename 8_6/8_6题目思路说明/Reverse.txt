@@ -1,0 +1,9 @@
+while(x)
+{	
+	获取x的末位数值
+	赋给新的result
+	x /= 10
+}
+
+注：X = INT_MAX
+	X = INT_MIN

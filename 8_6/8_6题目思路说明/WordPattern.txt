@@ -1,0 +1,12 @@
+接收pattern,str
+
+解析str中的单词
+
+开map_pat、map_str
+
+map_pat中存pattern
+
+map_str中存单词
+
+pattern与单词一一映射关系
+

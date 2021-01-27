@@ -1,0 +1,26 @@
+[要求]
+颠倒给定的 32 位无符号整数的二进制位。
+
+[提高]
+如果多次调用这个函数，你将如何优化你的算法？
+
+[等级]
+简单
+
+[接口]
+unsigned int ReverseBits(unsigned int n)
+
+[示例]
+Input = 43261596
+Output = 964176192
+
+[要求]
+给定一个非空字符串s和一个包含非空单词列表的字典wordDict，判定s是否可以被空格拆分为一个或多个在字典中出现的单词
+
+[接口]
+bool WordBreak(string s, vector<string>& wordDict)
+
+[示例]
+Input1 = "cppcode"
+Input2 = cpp, code
+Output = true
